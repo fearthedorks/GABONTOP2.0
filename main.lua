@@ -571,7 +571,7 @@ local function addEmote(name, id, price, date)
     })
 end
 
-
+addEmote("Big Boy Cuffing Season Michael Myers Meme", 82317000187587, 0, "Sep 12, 2025")
 addEmote("spiderman hang", 126399475969727, 39, "Sep 09, 2025")
 addEmote("SEIZURE", 75162782869746, 39, "Sep 09, 2025")
 addEmote("zero two dance", 98557874760659, 39, "Sep 09, 2025")
