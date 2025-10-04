@@ -571,6 +571,9 @@ local function addEmote(name, id, price, date)
     })
 end
 addEmote("My arms are crossed. Be aware of it. (MEME)", 85908081483699, 0, "Oct 4, 2025")
+addEmote("Shake it - In a circle!", 83513521104887, 0, "Oct 4, 2025")
+addEmote("Jason Vorhees Emote", 134297844624195, 0, "Oct 4, 2025")
+addEmote("Jason Vorhees Dance Goofy", 127633235542889, 0, "Oct 4, 2025")
 
 
 addEmote("Big Boy Cuffing Season Michael Myers Meme", 82317000187587, 0, "Sep 12, 2025")
