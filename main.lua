@@ -570,7 +570,7 @@ local function addEmote(name, id, price, date)
         sort = {}
     })
 end
-addEmote("My arms are crossed. Be aware of it. (MEME)", 113824452502560, 0, "Oct 4, 2025")
+addEmote("My arms are crossed. Be aware of it. (MEME)", 85908081483699, 0, "Oct 4, 2025")
 
 addEmote("Big Boy Cuffing Season Michael Myers Meme", 82317000187587, 0, "Sep 12, 2025")
 addEmote("spiderman hang", 126399475969727, 39, "Sep 09, 2025")
