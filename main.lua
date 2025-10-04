@@ -570,10 +570,19 @@ local function addEmote(name, id, price, date)
         sort = {}
     })
 end
+addEmote("Hands Down Hip Sway", 104660720214070, 0, "Oct 4, 2025")
 addEmote("My arms are crossed. Be aware of it. (MEME)", 85908081483699, 0, "Oct 4, 2025")
 addEmote("Shake it - In a circle!", 83513521104887, 0, "Oct 4, 2025")
 addEmote("Jason Vorhees Emote", 134297844624195, 0, "Oct 4, 2025")
 addEmote("Jason Vorhees Dance Goofy", 127633235542889, 0, "Oct 4, 2025")
+addEmote("Die Lit", 134166963487017, 0, "Oct 4, 2025")
+addEmote("Cute Feet Kicking", 78993833641127, 0, "Oct 4, 2025")
+addEmote("Cute Feet Kicking", 114619618680573, 0, "Oct 4, 2025")
+addEmote("Cute Feet Kicking Laying Down Emote Pose", 118410457961703, 0, "Oct 4, 2025")
+addEmote("Watch Me Whip Nae Nae Dance", 6096183482, 0, "Oct 4, 2025")
+addEmote("Gap x Katseye - Better Than Yours (Milkshake)", 136084484696445, 0, "Oct 4, 2025")
+addEmote("Rock Out by slury", 136905358266269, 0, "Oct 4, 2025")
+
 
 
 addEmote("Big Boy Cuffing Season Michael Myers Meme", 82317000187587, 0, "Sep 12, 2025")
