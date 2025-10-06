@@ -570,6 +570,7 @@ local function addEmote(name, id, price, date)
         sort = {}
     })
 end
+addEmote("Happy Sway", 114231238983050, 0, "Oct 6, 2025")
 addEmote("Hands Down Hip Sway", 104660720214070, 0, "Oct 4, 2025")
 addEmote("My arms are crossed. Be aware of it. (MEME)", 85908081483699, 0, "Oct 4, 2025")
 addEmote("Shake it - In a circle!", 83513521104887, 0, "Oct 4, 2025")
