@@ -571,7 +571,11 @@ local function addEmote(name, id, price, date)
     })
 end
 
-
+addEmote("tyla dance (pop like this)", 110194677145243, 0, "Oct 14, 2025")  -- Tyla Dance (Pop Like This) :contentReference[oaicite:0]{index=0}  
+addEmote("apple store girl (do you want me)", 129090921002373, 0, "Oct 14, 2025")  
+addEmote("dancing with your eyes closed", 129637389787927, 0, "Oct 14, 2025")  -- Dancing With Your Eyes Closed :contentReference[oaicite:1]{index=1}  
+addEmote("Needy Balance", 117286638697108, 0, "Oct 14, 2025")  -- Needy Balance :contentReference[oaicite:2]{index=2}  
+addEmote("[BEST] Soda Pop", 87905326034362, 0, "Aug 9, 2025") 
 addEmote("Jigsaw Emote", 101358566209195, 0, "Oct 10, 2025")
 addEmote("Electro Shuffle", 105735403290637, 0, "Oct 10, 2025")
 addEmote("Windy Balance", 125555848685752, 0, "Oct 10, 2025")
